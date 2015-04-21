@@ -38,7 +38,7 @@ public class Aplicacion {
         try {
    
         } catch (Exception ex) {
-            System.out.println("Elgo malo paso"+ex);
+            System.out.println("Algo malo paso"+ex);
         }
     }
 
